@@ -4,3 +4,4 @@
 * [Laboratorio 02](lab_02_RodrigoM.ipynb): Ejercicios de python (me da toc que la l de lab no sea mayuscula solo con este)
 * [Laboratorio 03](Lab_03_RodrigoM.ipynb): Ejercicios de python
 * [Laboratorio 04](Lab_04_RodrigoM.ipynb): Ejercicios de python
+* [Laboratorio 05](Lab_05_RodrigoM.ipynb): Ejercicios de python
