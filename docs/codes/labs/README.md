@@ -5,3 +5,4 @@
 * [Laboratorio 03](Lab_03_RodrigoM.ipynb): Ejercicios de python
 * [Laboratorio 04](Lab_04_RodrigoM.ipynb): Ejercicios de python
 * [Laboratorio 05](Lab_05_RodrigoM.ipynb): Ejercicios de python
+* [Laboratorio 07](Lab_07_RodrigoM.ipynb): Ejercicios de python
